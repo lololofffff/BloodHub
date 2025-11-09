@@ -114,7 +114,7 @@ local Button = Tab:CreateButton({
 })
 
 local Button = Tab:CreateButton({
-   Name = "Drift FE R6",
+   Name = "Drift FE R6-R15",
    Callback = function()
    if game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Humanoid").RigType == Enum.HumanoidRigType.R6 then
  
